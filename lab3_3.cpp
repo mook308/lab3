@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-    float n=2,sum=0;
-    while(n<=69){
+    float n=6,sum=0;
+    while(n<=19){
         sum+= 1/n ;
         n = n+1;
 
